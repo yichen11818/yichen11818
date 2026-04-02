@@ -1,1 +1,1 @@
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yichen11818&show_icons=true&theme=radical)
+[![Your GitHub stats](./images/userstats.svg)](https://github.com/cicirello/user-statistician)

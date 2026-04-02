@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="160" viewBox="0 0 520 160" role="img" aria-labelledby="title desc">
+  <title id="title">Generating GitHub stats</title>
+  <desc id="desc">A placeholder image while the GitHub Actions workflow generates the latest statistics card.</desc>
+  <rect width="520" height="160" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <circle cx="54" cy="48" r="12" fill="#58a6ff">
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="90" cy="48" r="12" fill="#58a6ff">
+    <animate attributeName="opacity" values="0.35;1;0.35" begin="0.2s" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="126" cy="48" r="12" fill="#58a6ff">
+    <animate attributeName="opacity" values="0.35;1;0.35" begin="0.4s" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="36" y="96" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">
+    Generating GitHub stats...
+  </text>
+  <text x="36" y="124" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="16">
+    The workflow will replace this placeholder automatically.
+  </text>
+  <text x="36" y="144" fill="#58a6ff" font-family="Segoe UI, Arial, sans-serif" font-size="14">
+    @yichen11818
+  </text>
+</svg>
